@@ -1,0 +1,5 @@
+[
+  { "id": 1, "label": "Add Student", "value": "add" },
+  { "id": 2, "label": "Update Student", "value": "update" },
+  { "id": 3, "label": "Delete Student", "value": "delete" }
+]
